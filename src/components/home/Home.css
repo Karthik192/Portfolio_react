@@ -114,7 +114,7 @@
 }
 
 .s3 {
-    right: -5%;
+    right: -8%;
     top: 22%;
 }
 
@@ -141,3 +141,19 @@
     top: 50%;
     right: 35%;
 }
+
+
+@media screen and (max-width: 1024px){
+    .home__social-link {
+        font-size: 1.125rem;
+    }
+
+    .shape {
+        width: 30%;
+    }
+
+    .s6 {
+        bottom: 0;
+    }
+}
+

@@ -52,3 +52,21 @@
     font-size: var(--h3-font-size);
     margin: 0.5rem 0;
 }
+
+@media screen and (max-width: 1024px) {
+    .resume__container {
+        grid-template-columns: 450px;
+        justify-content: center;
+        row-gap: 1.875rem;
+    }
+
+    .timeline__item::before {
+        left: 2px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .resume__container {
+        grid-template-columns: 1fr;
+    }
+}

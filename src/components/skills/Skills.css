@@ -85,3 +85,17 @@
 .skills__description {
     color: black;
 }
+
+@media screen and (max-width: 1024px) {
+    .skills__container {
+        grid-template-columns: repeat(2, 330px);
+        justify-content: center;
+        row-gap: 1.875rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .skills__container {
+        grid-template-columns: 310px;
+    }
+}
