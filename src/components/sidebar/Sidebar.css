@@ -71,3 +71,11 @@
     left: 0;
   }
 }
+
+
+.nav__footer {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  align-items: center;
+}

@@ -60,11 +60,15 @@ const Sidebar = () => {
         </nav>
 
         <div className="nav__footer">
-          <span className="copyright">&copy; 2022 - 2023.</span>
+          <p id="visits"></p>
+          <p className="counter__desc">Visits</p>
         </div>
       </aside>
 
-      <div className={toggle ? "nav__toggle nav__toggle-open" : "nav__toggle"} onClick={() => showMenu(!toggle)}>
+      <div
+        className={toggle ? "nav__toggle nav__toggle-open" : "nav__toggle"}
+        onClick={() => showMenu(!toggle)}
+      >
         <i className="icon-menu"></i>
       </div>
     </>
