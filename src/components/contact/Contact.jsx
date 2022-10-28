@@ -12,7 +12,7 @@ const Contact = () => {
             Let's collab and do projects together
           </h3>
           <p className="contact__details">
-            Don't like forms? Send me an email. 📩
+            Don't like forms? <a href="mailto:devakarthik03102001ece@gmail.com">Send me an email 📩</a>
           </p>
         </div>
 

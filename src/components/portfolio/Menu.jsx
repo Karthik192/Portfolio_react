@@ -1,21 +1,23 @@
-import Work3 from '../../assets/w3.png'
+import ArduinoImg from '../../assets/self.jpg'
+import StockImg from '../../assets/stock.jpg'
+import SpeechImg from '../../assets/speech.webp'
 
 const Menu = [
     {
         id: 1,
-        image: Work3,
+        image: StockImg,
         title: "Stock Market Prediction",
         category: "AI/ML"
     },
     {
         id: 2,
-        image: Work3,
+        image: SpeechImg,
         title: "Speech Emotion Recgnition",
         category: "AI/ML"
     },
     {
         id: 3,
-        image: Work3,
+        image: ArduinoImg,
         title: "Self Driving Car",
         category: "IOT"
     },

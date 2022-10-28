@@ -12,6 +12,12 @@
     transition: .3s;
 }
 
+.work__img {
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+}
+
 .work__item:hover {
     color: var(--first-color);
 }

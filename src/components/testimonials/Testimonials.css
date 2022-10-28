@@ -1,4 +1,8 @@
 .testimonials__img {
+  width: 100px;
+  height: 90px;
+  object-fit: cover;
+  object-position: 0 0;
   border-radius: 50%;
   background-color: black;
   width: 110px;

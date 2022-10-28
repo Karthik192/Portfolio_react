@@ -6,7 +6,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2019 - Present",
         title: "B. Tech (CSE)",
-        desc: "Lorem ipsum"
+        desc: "Prasad V Potluri Siddhartha Institute of Technology, Kanuru"
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2016 - 2018",
         title: "Intermediate",
-        desc: "Lorem ipsum"
+        desc: "Narayana Junior College, Benz Circle"
     },
     {
         id: 3,
@@ -22,7 +22,7 @@ const Data = [
         icon: "icon-briefcase",
         year: "2015 - 2016",
         title: "SSC",
-        desc: "Lorem ipsum"
+        desc: "Narayana E Techno School, Patamata"
     },
     // {
     //     id: 4,

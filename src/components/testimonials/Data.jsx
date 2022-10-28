@@ -1,4 +1,4 @@
-import Image1 from '../../assets/profile.png'
+import Image1 from '../../assets/profile.jpg'
 
 const Data = [
     {
@@ -7,7 +7,7 @@ const Data = [
         title: "Karthik",
         subtitle: "A developer",
         comment:
-            "Lorem ipsum dolobfevbwe wjv wevwv veuwvwvnwiv wvwvwweifnwf ffnwef"
+            "Hire me!"
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const Data = [
         title: "Karthik",
         subtitle: "A developer",
         comment:
-            "Lorem ipsum dolobfevbwe wjv wevwv veuwvwvnwiv wvwvwweifnwf ffnwef"
+            "No testimonials till now. This is to populate the section for testing."
     }
 ];
 

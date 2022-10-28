@@ -40,7 +40,7 @@ const Shapes = () => {
       </svg> */}
 
       <svg
-        class="shape s4"
+        className="shape s4"
         viewBox="0 0 200 200"
         xmlns="http://www.w3.org/2000/svg"
       >
