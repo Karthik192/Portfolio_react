@@ -3,8 +3,8 @@ import "./Home.css";
 import Me from "../../assets/profile.jpg";
 import HeaderSocials from "./HeaderSocials";
 import ScrollDown from "./ScrollDown";
-import Shapes from "./Shapes";
-import KUTE from "kute.js";
+// import Shapes from "./Shapes";
+// import KUTE from "kute.js";
 
 const Home = () => {
   // const tween = KUTE.fromTo(
